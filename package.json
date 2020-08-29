@@ -1,0 +1,15 @@
+{
+  "name": "http-proxy",
+  "version": "1.0.0",
+  "description": "A simple expressjs proxy streaming to localhost on port 3000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aristide Bouix (webmaster@aristidebouix.cloud)",
+  "license": "MIT",
+  "dependencies": {
+	  "express": "^4.14.0",
+	  "request": "^2.76.0"
+  }
+}
